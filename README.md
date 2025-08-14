@@ -1,3 +1,4 @@
+![30-Day AI Challenge](banner.png)
 # 🚀 From Zero to AI in 30 Days — Atul Bharat Ghadge
 
 Hi there! 👋 I’m **Atul Bharat Ghadge**, a fast-learning, automation-driven developer on a 30-day mission to go from **no machine learning background** to building **real-world AI + n8n automation projects** for India, Japan, and Dubai.
