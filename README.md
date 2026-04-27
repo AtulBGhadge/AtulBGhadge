@@ -30,8 +30,7 @@ Predict property prices and generate a PDF report via automation.
 ## 📬 Let’s Connect
 - **LinkedIn:** [linkedin.com/in/atul-ghadge](https://linkedin.com/in/atul-ghadge)  
 - **Email:** atulghadge2003@gmail.com  
-- **Portfolio (Coming Soon):** *Live links to projects will be added here during the challenge.*
-
+- **Portfolio:** https://atul-ghadge.vercel.app/
 ---
 
 ⭐ **Follow my journey** — every commit tells part of the story.
