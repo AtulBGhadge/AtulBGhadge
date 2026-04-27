@@ -1,20 +1,12 @@
-![30-Day AI Challenge](Banner.png)
-# 🚀 From Zero to AI in 30 Days — Atul Bharat Ghadge
+!(Banner.png)
+# Atul Bharat Ghadge
 
-Hi there! 👋 I’m **Atul Bharat Ghadge**, a fast-learning, automation-driven developer on a 30-day mission to go from **no machine learning background** to building **real-world AI + n8n automation projects** for India, Japan, and Dubai.
+Hi there! 👋 I’m **Atul Bharat Ghadge**, a fast-learning, automation-driven developer.
 
 💡 My belief: *Skills are built in the doing.*  
 🛠 My approach: *Learn → Build → Deploy → Share.*
 
----
-
-## 📅 30-Day Challenge
-I’m publicly documenting my journey of learning:
-- **Machine Learning** (Python, scikit-learn, Hugging Face, Streamlit)
-- **n8n Automation** (workflows, integrations, bots)
-- **Japanese Language (N5 & N4)** for cross-cultural projects
-
----
+------
 
 ## 📂 Featured Projects
 ### 1️⃣ AI Resume Screener + n8n Automation  
@@ -29,7 +21,7 @@ Predict property prices and generate a PDF report via automation.
 ---
 
 ## 🌏 Why Me?
-- **Speed Learner:** Building 3 production-ready AI projects in just 30 days.  
+- **Speed Learner:** Built 3 production-ready AI projects in just 30 days.  
 - **Multi-Market Focus:** India 🇮🇳 | Japan 🇯🇵 | Dubai 🇦🇪  
 - **Automation First:** Saving time and effort with n8n workflows.
 
