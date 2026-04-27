@@ -1,4 +1,4 @@
-!(Banner.png)
+!(banner1.png)
 # Atul Bharat Ghadge
 
 Hi there! 👋 I’m **Atul Bharat Ghadge**, a fast-learning, automation-driven developer.
